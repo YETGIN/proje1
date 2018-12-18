@@ -1,0 +1,104 @@
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Controls.dll
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.dll
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Fuzzy.dll
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Genetic.dll
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Imaging.dll
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.MachineLearning.dll
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Math.dll
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Neuro.dll
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.dll
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.VFW.dll
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Vision.dll
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IPPrototyper.exe
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.xml
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Controls.xml
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Fuzzy.xml
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Genetic.xml
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Imaging.xml
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.MachineLearning.xml
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Math.xml
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Neuro.xml
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.xml
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.VFW.xml
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Vision.xml
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\ebru\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Controls.dll
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.dll
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Fuzzy.dll
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Genetic.dll
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Imaging.dll
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.MachineLearning.dll
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Math.dll
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Neuro.dll
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.dll
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.VFW.dll
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Vision.dll
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IPPrototyper.exe
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.xml
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Controls.xml
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Fuzzy.xml
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Genetic.xml
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Imaging.xml
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.MachineLearning.xml
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Math.xml
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Neuro.xml
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.xml
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.VFW.xml
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\AForge.Vision.xml
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\ebru\Desktop\3x3 matris\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
